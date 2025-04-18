@@ -1,10 +1,7 @@
-## Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=myeonghah&textBg=false&fontColor=ffffff&fontAlign=51&fontAlignY=49&animation=twinkling&stroke=000000&strokeWidth=2&desc=Korea%20University&descAlignY=66">
 <!--
 **myeonghah/myeonghah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
