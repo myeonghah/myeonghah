@@ -40,7 +40,7 @@
 </span>
 
 ## Projects :computer:
-- :school: GDG Worktree Team1 'Memeforyou' (2025 9月~12月) :running:
+- :school: GDG Worktree Team1 'Memeforyou' (2025 9月~12月)
 - :earth_asia: Solution Challenge 2025 'Trabuddy' (2025 4月~5月) 
 - :school: Korea University NE:XT CONTEST 'Travo' (2025 4月~5月)
 - 🥥 Kuconut 'On Board' (2024 6月-8月)
