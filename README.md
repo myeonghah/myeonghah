@@ -40,6 +40,7 @@
 </span>
 
 ## Projects :computer:
+- :school: Deeplant Industry_Academic_Cooperation (2025 6月~12月)
 - :school: GDG Worktree Team1 'Memeforyou' (2025 9月~12月)
 - :earth_asia: Solution Challenge 2025 'Trabuddy' (2025 4月~5月) 
 - :school: Korea University NE:XT CONTEST 'Travo' (2025 4月~5月)
